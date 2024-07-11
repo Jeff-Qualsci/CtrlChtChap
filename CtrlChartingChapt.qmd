@@ -1,0 +1,24 @@
+---
+title: "ControlCharts"
+author: "Jeffrey R. Weidner"
+format: html
+editor: visual
+---
+
+## Introduction
+
+Statistical process control (SPC) is the use of statistical methods to monitor and control the quality of processes. Though the tools were initially developed and used for manufacturing, they have found applications in many other areas where outcomes can be measured and quality is valued, including scientific laboratories. Some of the most common SPC tools include Run Charts, Control Charts, and Experimental Design.
+
+## Definitions
+
+**Repeatability** - the consistency of a process within a subgroup (person, equipment, laboratory, ...).
+
+**Reproducibility** - the consistency of a process between different subgroups.
+
+**Common cause variability** - variation which can not be assigned to a specific cause (i.e. random, normal variation).
+
+Special cause variability - variation which can be assigned to a specific cause.
+
+**In control** - the process is performing within the desired specification(s).
+
+**Out of control** - the process is not performing within desired specification(s).
